@@ -1,16 +1,16 @@
-## Hi there 👋
+# Martin Fournier
 
-<!--
-**martinfou/martinfou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Java Developer · Full Stack · DevOps**  
+Quebec, Canada
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+20 years building systems in manufacturing, financial services, and defense. Backend-first: Spring Boot, microservices, SQL and NoSQL, and DevOps (Docker, Jenkins, Concourse). I care about automated pipelines, clean architecture, and sovereign tech. Also into systematic trading and real estate.
+
+**Find me**
+
+- [martinfournier.com](https://martinfournier.com) – site, blog, resume
+- [LinkedIn](https://www.linkedin.com/in/martinfournier1978/)
+- [Contact](https://martinfournier.com/contact)
+
+---
