@@ -3,9 +3,14 @@
 **Senior Java Developer · Full Stack · DevOps**  
 Quebec, Canada
 
+![Profile views](https://img.shields.io/github/followers/martinfou?label=Follow&style=flat-square)
+
 ---
 
 20 years building systems in manufacturing, financial services, and defense. Backend-first: Spring Boot, microservices, SQL and NoSQL, and DevOps (Docker, Jenkins, Concourse). I care about automated pipelines, clean architecture, and sovereign tech. Also into systematic trading and real estate.
+
+**Tech**  
+`Java` `Spring Boot` `Laravel` `Docker` `SQL` `Concourse` `cTrader`
 
 **Find me**
 
