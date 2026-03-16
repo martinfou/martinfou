@@ -4,6 +4,7 @@
 Quebec, Canada
 
 ![Profile views](https://img.shields.io/github/followers/martinfou?label=Follow&style=flat-square)
+![Stats](https://github-readme-stats.vercel.app/api?username=martinfou&show_icons=true&theme=dark)
 
 ---
 
